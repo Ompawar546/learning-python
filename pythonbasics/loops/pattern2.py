@@ -6,3 +6,4 @@ for i in range(1,row+1):
         print("*"*i)
     else:
         print("*"+" "*(i-2)+"*")        
+
